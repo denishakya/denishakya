@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Denish Ratna Shakya
 
-🎓 **BCA Student | Data Science Enthusiast | Aspiring Software Developer**  
+🎓 **BCA Student‎ ‎ |‎‎  ‎ Data Science Enthusiast‎ ‎ |‎‎ ‎  Aspiring Software Developer**  
 📍 Kathmandu, Nepal  
 
 ---
