@@ -36,9 +36,4 @@
 
 ---
 
-## 📊 GitHub Stats
-![Denish's GitHub stats](https://github-readme-stats.vercel.app/api?username=denishakya&show_icons=true&theme=radical)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denishakya&layout=compact&theme=radical)
-
----
-
 🔥 *Always learning, building, and improving.*
