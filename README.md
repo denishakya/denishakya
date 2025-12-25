@@ -14,7 +14,7 @@
 - 📊 Data manipulation, analysis & visualization  
 - 🤖 Machine learning & statistical analysis  
 - 🧹 Data preprocessing & feature engineering  
-- 💾 Working with CSV, JSON & SQL  
+- 💾 Working with CSV, EXCEL, JSON & SQL  
 - 📈 Presenting & communicating insights  
 
 ---
